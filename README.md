@@ -1,6 +1,8 @@
 # genesis_flash_cart_8mbit
 simple genesis / md re-writable flash cart - 8 mbit (1 MByte)
 
+![carts](https://github.com/ole00/genesis_flash_cart_8mbit/raw/master/img/carts.jpg "carts")
+
 This is a PCB design of a simple Genesis flash cartridge based on the schematic and design
 published by Raphaël Assénat here: https://www.raphnet.net/electronique/genesis_cart/genesis_cart_en.php
 
