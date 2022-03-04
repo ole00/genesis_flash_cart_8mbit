@@ -53,4 +53,23 @@ Additional info:
   the H and L files into appropriate flash chips.
   
   
-  
+3D printed case
+---------------
+
+![cart_case](https://github.com/ole00/genesis_flash_cart_8mbit/raw/master/img/cart_case.jpg "cart_case")
+
+- The case was designed in sketchup online, .stl files for 3D printing are available in the 'case' directory.
+- I've only printed the case on SLA printer (Photon Mono X), so I can't guarantee the .stl files can be printed
+  on FDM 3D printer without changes.
+- The case design has plenty of straight and flat areas. In order to avoid sagging and bends I had to add quite a lot
+  of bracing support. I used PrusaSlicer for slicing, check out the .3mf file (load it in PrusaSlicer) 
+  for some hints how the supports were arranged.
+- The case itself is quite brittle, so be careful not to break the latching pads on the bottom part of the case.
+- The holes for screws need to be drilled by 2 mm and then by 2.5 mm drill. If you try to screw in a screw without
+  pre drilling the hole then the pillar will break (I've done that twice)!
+- I used self tapping screews M2.6 * 12 mm (while the pillar hole was pre-drilled by 2.5mm drill)
+- After the print when the support material was removed there were plenty of 'goosebumps' and the surface
+  felt a bit rough on touch. I used a 100 grit sandpaper to remove the 'goosebumps' and to smooth the surface.
+- A complete case (front and back part) with supports consumed about 200 ml, so only about 5 cart cases can be
+  printed per 1l resin bottle. So, it is definitely not a cheap case, but I think it's worth to have your 
+  favourite homebrew MD project protected. 
