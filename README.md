@@ -70,6 +70,7 @@ Additional info:
 - I used self tapping screews M2.6 * 12 mm (while the pillar hole was pre-drilled by 2.5mm drill)
 - After the print when the support material was removed there were plenty of 'goosebumps' and the surface
   felt a bit rough on touch. I used a 100 grit sandpaper to remove the 'goosebumps' and to smooth the surface.
+- Use a face mask while sanding or sand outdoors to make sure you don't breath in the dust from sanding!
 - A complete case (front and back part) with supports consumed about 200 ml, so only about 5 cart cases can be
   printed per 1l resin bottle. So, it is definitely not a cheap case, but I think it's worth to have your 
   favourite homebrew MD project protected. 
