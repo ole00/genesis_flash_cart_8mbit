@@ -8,6 +8,9 @@ published by Raphaël Assénat here: https://www.raphnet.net/electronique/genesi
 
 For schematics and tools please refer to the link above.
 
+If you'd like a **WiFi programmable Genesis flash cart**, check my other project
+[here](https://github.com/ole00/genesis_wifi_flash_cart_8mbit).
+
 Gerber files ready for manfuacturing are located in the gerbers directory of this repository.
 
 The PCB design can be opedned and edited in the free geda-pcb tool: http://pcb.geda-project.org/
